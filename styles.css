@@ -7,6 +7,10 @@
 body {
 	background-color: #2d516e;
 }
+.mainContainer {
+	margin-right: auto;
+	margin-left: auto;
+}
 .instructions {
 	margin: 7px 5px;
 	color: grey;
